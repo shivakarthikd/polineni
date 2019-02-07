@@ -4,5 +4,4 @@ class A {
  }
 }
 
-
-ads
+#New line is added in the branch1
