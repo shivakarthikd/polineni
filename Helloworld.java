@@ -4,5 +4,3 @@ class A {
  }
 }
 
-#New line is added in the branch1
-# 2nd line is added
